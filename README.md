@@ -567,7 +567,7 @@ npm run build
 
 **MIT License** - Open source for democratic engagement
 
-**Copyright (c) 2024 MiniMax Agent**
+**Copyright (c) 2025-26 Jitender Kumar**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction...
 
